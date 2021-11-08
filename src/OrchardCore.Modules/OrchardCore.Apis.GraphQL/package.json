@@ -2,7 +2,7 @@
   "name": "orchardcore.apis.graphql",
   "version": "1.0.0",
   "dependencies": {
-    "graphiql": "0.13.0",
+    "graphiql": "1.4.7",
     "graphql": "14.3.1",
     "graphiql-explorer": "0.4.3",
     "react": "16.8.6",
